@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Ungu</title>
+    <style>
+        body {
+            background-color: lavender;
+            text-align: center;
+        }
+
+        h1 {
+            color: purple;
+        }
+
+        p {
+            color: purple;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>CSS</h1>
+    <p>Ungu</p>
+
+</body>
+</html>
